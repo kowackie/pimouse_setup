@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-# Written by kowackie
+# Written by Kowackie
 
 exec 2> /tmp/setup.log
 
